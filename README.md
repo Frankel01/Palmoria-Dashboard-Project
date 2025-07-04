@@ -11,6 +11,11 @@ departmental composition, location-based performance ratings. The primary object
 - Data Visualization: Power BI was used to create interactive dashboards and visual reports to highlight key metrics such as total salary, gender distribution by region, and top-performing region and so on.
 
 
+![Palmoria dashbaord 1](https://github.com/user-attachments/assets/f10f9e62-c6e5-48fa-a6f1-ec8022c62ce6)
+
+![Uploading Palmoria dashbaord 2.png…]()
+
+
 ### Insights and Findings
 ---
 - Gender Balance: The dataset contained : 501 males and 471 females, and 43 employess whom refused to disclose their gender and were given a generic name "Prefer Not To Say"
