@@ -2,8 +2,9 @@
 
 ### Project Overview
 ---
-This project explores employee demographic and gender distribution and performance in Palmoria Group, aiming to uncover key workforce trends related to salary distribution,
+This project explores employee demographic, gender distribution and performance in Palmoria Group, aiming to uncover key workforce trends related to salary distribution, gender bias issues,
 departmental composition, location-based performance ratings. The primary objective is to derive actionable insights that can support strategic HR and organizational planning.
+
 ### Method and Tools
 ---
 - Data Cleaning and Preparation: The dataset was cleaned to handle missing values, standardize date formats in power bi power query
