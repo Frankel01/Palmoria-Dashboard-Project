@@ -10,10 +10,15 @@ departmental composition, location-based performance ratings. The primary object
 
 - Data Visualization: Power BI was used to create interactive dashboards and visual reports to highlight key metrics such as total salary, gender distribution by region, and top-performing region and so on.
 
+### Data Visualizations
+---
+![Palmoria dashbaord 1](https://github.com/user-attachments/assets/530d0c4e-9efc-4edd-a718-df803a8a49a4)
 
-![Palmoria dashbaord 1](https://github.com/user-attachments/assets/f10f9e62-c6e5-48fa-a6f1-ec8022c62ce6)
+![Palmoria dashbaord 2](https://github.com/user-attachments/assets/91772595-9797-42ea-89a4-e5c4fee5f7d9)
 
-![Uploading Palmoria dashbaord 2.png…]()
+![Palmoria Dashboard 3](https://github.com/user-attachments/assets/e014e120-28c4-41f4-85a0-5b0a567cd26d)
+
+![Palmoria Dashboard 4](https://github.com/user-attachments/assets/0f73d5ad-bc97-450c-a63c-168280ffb1e5)
 
 
 ### Insights and Findings
