@@ -10,6 +10,7 @@ departmental composition, location-based performance ratings. The primary object
 
 - Data Visualization: Power BI was used to create interactive dashboards and visual reports to highlight key metrics such as total salary, gender distribution by region, and top-performing region and so on.
 
+
 ### Insights and Findings
 ---
 - Gender Balance: The dataset contained : 501 males and 471 females, and 43 employess whom refused to disclose their gender and were given a generic name "Prefer Not To Say"
